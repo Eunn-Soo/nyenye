@@ -33,3 +33,6 @@ canvas {
     height: 100%;
     z-index: -1;
 }
+.p_final{
+    font-family: cursive;
+}
